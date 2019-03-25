@@ -1,3 +1,5 @@
+//Make sure you npm install all your package first
+
 require("dotenv").config();
 
 // laod all the necessary package for spotify queries
