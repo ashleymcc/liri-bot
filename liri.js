@@ -164,8 +164,8 @@ function movie_info() {
           fs.appendFileSync('log.txt', "\nRotten Tomatoes Rating: " + response.data.Ratings[1].Value + '\n', 'utf8');
         }
       );
-    } else {   //if no movie title is entered, default to Mr. Nobody
-        movieName = "Mr+Nobody";
+    } else {   //if no movie title is entered, default to "No movie"
+        movieName = "No movie";
 
         queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
 
