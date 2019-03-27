@@ -1,0 +1,254 @@
+==========================================================================
+liri command: spotify-this-song
+Top 10 songs on Spotify with the name,  Poker Face
+==========================================================================
+Song #1
+Artist: Lady Gaga
+Song title: Poker Face
+Preview song: Song preview is not available for this song.
+Album: The Fame
+==========================================================================
+==========================================================================
+Song #2
+Artist: Lady Gaga
+Song title: Poker Face
+Preview song: Song preview is not available for this song.
+Album: The Fame Monster (Deluxe)
+==========================================================================
+==========================================================================
+Song #3
+Artist: Lady Gaga
+Song title: Poker Face
+Preview song: Song preview is not available for this song.
+Album: The Fame Monster
+==========================================================================
+==========================================================================
+Song #4
+Artist: LUCKI
+Song title: Poker Face
+Preview song: https://p.scdn.co/mp3-preview/c8816d4d7ca28e422796f23f8e9e57873c410b22?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Watch My Back
+==========================================================================
+==========================================================================
+Song #5
+Artist: Glee Cast
+Song title: Poker Face (Glee Cast Version featuring Idina Menzel)
+Preview song: https://p.scdn.co/mp3-preview/ee38d1ea0b7ead30debc776ca1807e5ff0c6a3db?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Glee: The Music, Volume 3 Showstoppers
+==========================================================================
+==========================================================================
+Song #6
+Artist: Vitamin String Quartet
+Song title: Poker Face
+Preview song: https://p.scdn.co/mp3-preview/68a1a47a5709245a4ecc802557e679fd8f749b57?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: VSQ Performs Lady Gaga
+==========================================================================
+==========================================================================
+Song #7
+Artist: First to Eleven
+Song title: Poker Face
+Preview song: https://p.scdn.co/mp3-preview/e15c7f3dfbdd6e5b622ee2ed74963a99214109d5?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Poker Face
+==========================================================================
+==========================================================================
+Song #8
+Artist: Marcela Mangabeira
+Song title: Poker Face (Bossa Version)
+Preview song: https://p.scdn.co/mp3-preview/a92f49a07187704f8023459ca7ed293116cf2ccc?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Relaxing Bossa Lounge 4
+==========================================================================
+==========================================================================
+Song #9
+Artist: Rockabye Baby!
+Song title: Poker Face
+Preview song: https://p.scdn.co/mp3-preview/1087af22c740fb7dfe6f3626550f456b0755b18b?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Lullaby Renditions of Lady Gaga
+==========================================================================
+==========================================================================
+Song #10
+Artist: Electric Light Orchestra
+Song title: Poker
+Preview song: https://p.scdn.co/mp3-preview/694b85f6de00d5894c71638e85a0ed7ced708fbc?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Face the Music
+==========================================================================
+==========================================================================
+liri command: spotify-this-song
+Top 10 songs on Spotify with the name,  
+==========================================================================
+liri command: spotify-this-song
+Artist: The Mowgli's
+Song title: San Francisco
+Preview song: null
+Album: Waiting For The Dawn
+
+==========================================================================
+==========================================================================
+liri command: spotify-this-song
+Top 10 songs on Spotify with the name, The Sign
+==========================================================================
+Song #1
+Artist: Harry Styles
+Song title: Sign of the Times
+Preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Harry Styles
+==========================================================================
+==========================================================================
+Song #2
+Artist: Lil Wayne
+Song title: Scared of the Dark (feat. XXXTENTACION)
+Preview song: Song preview is not available for this song.
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+==========================================================================
+==========================================================================
+Song #3
+Artist: Rich The Kid
+Song title: Woah (feat. Miguel & Ty Dolla $ign)
+Preview song: Song preview is not available for this song.
+Album: The World Is Yours 2
+==========================================================================
+==========================================================================
+Song #4
+Artist: Jeremih
+Song title: Impatient
+Preview song: Song preview is not available for this song.
+Album: Late Nights: The Album
+==========================================================================
+==========================================================================
+Song #5
+Artist: Ty Dolla $ign
+Song title: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+==========================================================================
+==========================================================================
+Song #6
+Artist: Rich The Kid
+Song title: Woah (feat. Miguel & Ty Dolla $ign)
+Preview song: Song preview is not available for this song.
+Album: The World Is Yours 2
+==========================================================================
+==========================================================================
+Song #7
+Artist: Jeremih
+Song title: The Light
+Preview song: Song preview is not available for this song.
+Album: The Light
+==========================================================================
+==========================================================================
+Song #8
+Artist: Quality Control
+Song title: Movin’ Up
+Preview song: Song preview is not available for this song.
+Album: Quality Control: Control The Streets Volume 1
+==========================================================================
+==========================================================================
+Song #9
+Artist: Harry Styles
+Song title: Sign of the Times
+Preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Sign of the Times
+==========================================================================
+==========================================================================
+Song #10
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: The Sign (US Album) [Remastered]
+==========================================================================
+=======================================================================================================
+liri command: movie-this Mr. Nobody
+=======================================================================================================
+Title: Mr. Nobody
+Year movie was released: 2009
+IMDB movie rating (out of 10): 7.8
+Rotten Tomatoes rating (out of 100%): 67%
+Filmed in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=======================================================================================================
+liri command: spotify-this-song
+==========================================================================
+Top 10 songs on Spotify with the name, The Sign
+==========================================================================
+Song #2
+Artist: Lil Wayne
+Song title: Scared of the Dark (feat. XXXTENTACION)
+Preview song: Song preview is not available for this song.
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+==========================================================================
+==========================================================================
+Song #1
+Artist: Harry Styles
+Song title: Sign of the Times
+Preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Harry Styles
+==========================================================================
+==========================================================================
+Song #3
+Artist: Rich The Kid
+Song title: Woah (feat. Miguel & Ty Dolla $ign)
+Preview song: Song preview is not available for this song.
+Album: The World Is Yours 2
+==========================================================================
+==========================================================================
+Song #4
+Artist: Jeremih
+Song title: Impatient
+Preview song: Song preview is not available for this song.
+Album: Late Nights: The Album
+==========================================================================
+==========================================================================
+Song #5
+Artist: Ty Dolla $ign
+Song title: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+==========================================================================
+==========================================================================
+Song #6
+Artist: Rich The Kid
+Song title: Woah (feat. Miguel & Ty Dolla $ign)
+Preview song: Song preview is not available for this song.
+Album: The World Is Yours 2
+==========================================================================
+==========================================================================
+Song #7
+Artist: Jeremih
+Song title: The Light
+Preview song: Song preview is not available for this song.
+Album: The Light
+==========================================================================
+==========================================================================
+Song #8
+Artist: Quality Control
+Song title: Movin’ Up
+Preview song: Song preview is not available for this song.
+Album: Quality Control: Control The Streets Volume 1
+==========================================================================
+==========================================================================
+Song #9
+Artist: Harry Styles
+Song title: Sign of the Times
+Preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: Sign of the Times
+==========================================================================
+==========================================================================
+Song #10
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7dc6699c88014bd98e65e820a7a6ef6b
+Album: The Sign (US Album) [Remastered]
+==========================================================================
+=======================================================================================================
+liri command: movie-this  Finding Nemo
+=======================================================================================================
+Title: Finding Nemo
+Year movie was released: 2003
+IMDB movie rating (out of 10): 8.1
+Rotten Tomatoes rating (out of 100%): 99%
+Filmed in: USA
+Language: English
+Movie plot: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+Actors: Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe
+=======================================================================================================

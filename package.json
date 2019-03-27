@@ -1,20 +1,19 @@
 {
-  "name": "userprompt",
+  "name": "liridemo",
   "version": "1.0.0",
-  "main": "userprompt.js",
+  "description": "",
+  "main": "LiriDemo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
-    "express-handlebars": "^3.0.2",
-    "inquirer": "^6.2.1",
+    "dotenv": "^7.0.0",
+    "figlet": "^1.2.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
     "node-spotify-api": "^1.0.7"
-  },
-  "devDependencies": {},
-  "keywords": [],
-  "description": ""
+  }
 }
