@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+//SOMEHOW THIS PUSH MERAGED WITH MY PREVIOUS????
+
+
 //The NPM packages we need to make the app fuction;
 //Node-Spotify-API, Axios, Moment, DotEnv, Figlet (Not HW required but looks cool) and FS.
 //Use Axios to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
