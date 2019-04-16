@@ -1,6 +1,4 @@
 # liri-bot
-**IN PROGRESS STILL**
-(BUGS)
 
 # About
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a language Interpretation and Recognition Interface. LIRI isa command line node app that takes in parameters and gives you back data.
@@ -13,7 +11,7 @@ Download the directory form git hub:
 
 $ git clone: https://github.com/ashleymcc/liri-bot
 $ cd [liri-node-app]
-Using terminal (bash/cmd) run npm install from the [liri-node-app] directory retrieve node modules
+Using terminal (bash/cmd) run npm install from the [liri-bot] directory retrieve node modules
 
 Next, change the name of .env.example to .env, replacing the values with your API keys (no quotes) once you have them:
 
@@ -31,30 +29,21 @@ Step Three: Once logged in, navigate to https://developer.spotify.com/my-applica
 
 Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the node-spotify-api package.
 
-Getting Started
+# Getting Started
 
-Using terminal (bash/cmd)
-Go to host directory: $ liri-node-app
-
+Using terminal
+Go to host directory: $ liri-bot
 
 Get Song Info
 
 Retrieves song information for 10 songs:
-node liri.js spotify-this-song <song name>
+node liridemo.js spotify-this-song <song name>
 
 Get Movie Info
 
 Retrieves movie information:
 node liridemo.js movie-this <movie name>
 
-Get Random info
-
-Retrieves random text inside a file and does what it says:
-node liri.js do-what-it-says
-
-Random info is retrieved from random.txt file
-All node and interaction and responses are logged to liri.log file
-Example Video
 
 ## Screenshots from the app in action:
 Retrieves movie information:node liridemo.js movie-this finding nemo
