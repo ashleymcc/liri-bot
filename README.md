@@ -2,10 +2,10 @@
 **IN PROGRESS STILL**
 (BUGS)
 
-#About
+# About
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a language Interpretation and Recognition Interface. LIRI isa command line node app that takes in parameters and gives you back data.
 
-#Installing
+# Installing
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -56,5 +56,8 @@ Random info is retrieved from random.txt file
 All node and interaction and responses are logged to liri.log file
 Example Video
 
-##Screenshots from the app in action:
+## Screenshots from the app in action:
 ![](images/FindingNemo.png)
+![](images/Mr.Nobody.png)
+![](images/Spotify%20No%20Song.png)
+![](images/Spotify%20Top%2010.png)
