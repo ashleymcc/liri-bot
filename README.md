@@ -39,13 +39,13 @@ Go to host directory: $ liri-node-app
 
 Get Song Info
 
-Retrieves song information for 5 songs:
+Retrieves song information for 10 songs:
 node liri.js spotify-this-song <song name>
 
 Get Movie Info
 
 Retrieves movie information:
-node liri.js movie-this <movie name>
+node liridemo.js movie-this <movie name>
 
 Get Random info
 
@@ -57,7 +57,17 @@ All node and interaction and responses are logged to liri.log file
 Example Video
 
 ## Screenshots from the app in action:
+Retrieves movie information:node liridemo.js movie-this finding nemo
+
 ![](images/FindingNemo.png)
+
+Retrieves "Mr. Nobody" information when no movie name is provided :node liridemo.js movie-this
+  
 ![](images/Mr.Nobody.png)
+
+Retrieves "The Sign" information when no song name is provided :node liridemo.js spotify-this-song 
+
 ![](images/Spotify%20No%20Song.png)
+
+Retrieves song information for 10 songs: node liridemo.js spotify-this-song poker face
 ![](images/Spotify%20Top%2010.png)
