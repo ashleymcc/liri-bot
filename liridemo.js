@@ -53,10 +53,6 @@ else if (liriCommand === "spotify-this-song") {
   getSongInfo(songName);
 }
 
-// else if (liriCommand === "concert-this") {
-//   getEventInfo(concertThis);
-// }
-//If do-what-it-says, text inside of random.txt is used to run spotify-this-song for "I want it that way."
 else if (liriCommand === "do-what-it-says") {
   
   //log to log.txt.
@@ -132,26 +128,6 @@ function getMovieInfo() {
       });
   };
 //==========  //
-// function getEventInfo() {
-  
-//   for (var i = 3; i < input.length; i++) {
-//     if (i > 2 && i < input.length) {
-//       concertThis
-//        = concertThis
-//        + " " + input[i];
-//     }
-//   }
-
-//   //If no movie name is given on the command line, then show the movie info for the movie, Mr. Nobody.
-//   if (!concertThis) {
-//     concertThis
-//      = "";
-//     console.log(
-//       "Please try a different band, maybe they died"
-//     );
-  
-//   }
-
   //figlet npm creates cool drawings from text (I c&p this code from https://www.npmjs.com/package/figlet)
   figlet(movieThis
     , function(err, data) {
@@ -291,6 +267,8 @@ function getSongInfo(songName) {
     secret: process.env.SPOTIFY_SECRET
   });
 
+  //Couldnt figure this out~~
+  
   //If no song name is specified on the command line, show song info for "The Sign" by Ace of Base.
   // if (!songName) {
   //   //If no song is specified, set the songName variable to "The Sign."
@@ -442,9 +420,7 @@ function getSongInfo(songName) {
 //doWhatItSays function...
 //If the liriCommand is do-what-it-says, take the text inside of random.txt and then use it to run spotify-this-song for "I want it that way."
 function doWhatItSays() {
-  //This code will read from the random.txt file.
-  // It's important to include the "utf8" parameter or the code will provide stream data (garbage)
-  // The code will store the contents of the reading inside the variable "data"
+  
   fs.readFile("random.txt", "utf8", function(error, data) {
     // If the code experiences any errors it will log the error to the console.
     if (error) {
@@ -456,10 +432,7 @@ function doWhatItSays() {
     // Then split it by commas (to make it more readable)
     var songdataArray = data.split(",");
 
-    // We will then re-display the content as an array.
-    //console.log(songdataArray);
-    //console.log(songdataArray[1]);
-    //Call the getSongInfo function to display the song info for "I want it that way."
+   
     getSongInfo(songdataArray[1]);
   });
 }
