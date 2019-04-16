@@ -1,6 +1,3 @@
-//SOMEHOW THIS PUSH MERAGED WITH MY PREVIOUS????
-
-
 //The NPM packages we need to make the app fuction;
 //Node-Spotify-API, Axios, Moment, DotEnv, Figlet (Not HW required but looks cool) and FS.
 //Use Axios to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
@@ -482,46 +479,3 @@ function logData(logResults) {
     }
   });
 }
-<<<<<<< HEAD
-
-// //Function to show command line help.
-// function showHelp() {
-//   //Use figlet npm package to convert text to art/drawing.
-//   figlet("LIRI help", function(err, data) {
-//     if (err) {
-//       console.log("Something went wrong...");
-//       console.dir(err);
-//       return;
-//     }
-//     console.log(data);
-//   });
-//   var helpInfo = "Usage: node liri.js <command> [arguments]";
-//   var helpColumns = [
-//     {
-//       Command: "movie-this [movie_name]",
-//       Description:
-//         "Shows information about the specifid movie. If no movie is specified, Mr. Nobody is displayed by default."
-//     },
-//     {
-//       Command: "spotify-this-song [song_name]",
-//       Description:
-//         "Shows top 10 songs on Spotify that have specified name. If no song is specified, The Waiting by The Mowgli's is displayed by default."
-//     },
-//     {
-//       Command: "do-what-it-says",
-//       Description:
-//         "Shows the top 10 songs on Spotify for the song, 'I want it that way.'"
-//     }
-//   ];
-//   console.log(
-//     "=================================================================================================="
-//   );
-//   console.log(helpInfo);
-//   console.log(
-//     "=================================================================================================="
-//   );
-//   console.log(helpColumns);
-//
-
-=======
->>>>>>> 24401714944b333d4e2ad2a1d9609ab16f58bde2
